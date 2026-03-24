@@ -1,5 +1,7 @@
 # 🚀 Public API Playground | Explorer
 
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://public-api-explorer-wm4knfagy-himanshus-projects-84e1edf6.vercel.app/)
+
 A premium, interactive web application for exploring and testing various public API endpoints. This tool provides a clean and elegant interface to fetch real-world data from multiple sources in real-time.
 
 ---
